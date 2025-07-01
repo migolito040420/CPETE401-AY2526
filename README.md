@@ -1,4 +1,4 @@
-# Database Programming with MariaDB
+# Database Management System with MariaDB
 
 This repository contains the course materials for the Database Programming course, with a focus on MariaDB.
 
@@ -14,26 +14,25 @@ This course provides a comprehensive introduction to database programming using 
 ## Course Outline
 
 1.  **Introduction to Databases**
-    *   What is a database?
-    *   Relational vs. NoSQL databases
-    *   Introduction to MariaDB
+    - What is a database?
+    - Relational vs. NoSQL databases
+    - Introduction to MariaDB
 2.  **Database Design**
-    *   Normalization
-    *   Entity-Relationship Diagrams (ERDs)
-    *   Designing a schema
+    - Normalization
+    - Entity-Relationship Diagrams (ERDs)
+    - Designing a schema
 3.  **SQL Fundamentals**
-    *   Data Definition Language (DDL)
-    *   Data Manipulation Language (DML)
-    *   Data Query Language (DQL)
-    *   Joins, Unions, and Subqueries
+    - Data Definition Language (DDL)
+    - Data Manipulation Language (DML)
+    - Data Query Language (DQL)
+    - Joins, Unions, and Subqueries
 4.  **Advanced SQL**
-    *   Stored Procedures and Functions
-    *   Triggers
-    *   Views
+    - Stored Procedures and Functions
+    - Triggers
+    - Views
 5.  **Database Programming**
-    *   Connecting to MariaDB from Python
-    *   Connecting to MariaDB from Node.js
-    *   Object-Relational Mapping (ORM)
+    - Connecting to MariaDB from Node.js
+    - Object-Relational Mapping (ORM)
 
 ## Getting Started with MariaDB
 

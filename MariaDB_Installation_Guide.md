@@ -19,49 +19,43 @@ Locate the downloaded `.msi` file in your "Downloads" folder and double-click it
 
 The first screen of the installer is the End-User License Agreement.
 
-*   **[Image: A window titled "MariaDB Setup" displaying the license agreement.]**
-*   **Action:** Check the box next to "I accept the terms in the License Agreement" and click the "Next" button.
+- **Action:** Check the box next to "I accept the terms in the License Agreement" and click the "Next" button.
 
 **Step 4: Choose Components**
 
 This screen allows you to select which features of MariaDB you want to install. For most users, the default selection is sufficient.
 
-*   **[Image: A list of components such as "MariaDB Server", "Client Programs", and "Third-party Tools" with checkboxes.]**
-*   **Action:** Leave the default components selected and click "Next".
+- **Action:** Leave the default components selected and click "Next".
 
 **Step 5: Set the Root Password**
 
 This is a crucial step where you will set the password for the `root` (administrator) user.
 
-*   **[Image: A screen with fields for "New root password" and "Confirm".]**
-*   **Action:**
-    *   Enter a strong password in the "New root password" field and enter the same password in the "Confirm" field. **Remember this password, as you will need it to access your databases.**
-    *   For security reasons, it is recommended to leave the "Enable access from remote machines for 'root' user" option unchecked unless you have a specific need to connect to the database from another computer.
-    *   Click "Next".
+- **Action:**
+  - Enter a strong password in the "New root password" field and enter the same password in the "Confirm" field. **Remember this password, as you will need it to access your databases.**
+  - For security reasons, it is recommended to leave the "Enable access from remote machines for 'root' user" option unchecked unless you have a specific need to connect to the database from another computer.
+  - Click "Next".
 
 **Step 6: Configure Database Properties**
 
 In this step, you will configure the MariaDB service.
 
-*   **[Image: A screen with options to "Install as service" and set the "Port".]**
-*   **Action:**
-    *   Keep the "Install as service" option checked. This will ensure MariaDB runs automatically in the background when your computer starts.
-    *   Leave the default port as `3306`, unless you have another program (like MySQL) that is already using this port.
-    *   Click "Next".
+- **Action:**
+  - Keep the "Install as service" option checked. This will ensure MariaDB runs automatically in the background when your computer starts.
+  - Leave the default port as `3306`, unless you have another program (like MySQL) that is already using this port.
+  - Click "Next".
 
 **Step 7: Ready to Install**
 
 The installer now has all the necessary information to proceed with the installation.
 
-*   **[Image: A screen that says "Ready to install MariaDB".]**
-*   **Action:** Click the "Install" button.
+- **Action:** Click the "Install" button.
 
 **Step 8: Installation Complete**
 
 The installation process will take a few moments. Once it is finished, you will see the final screen.
 
-*   **[Image: A screen with the message "Completed the MariaDB Setup Wizard".]**
-*   **Action:** Click the "Finish" button to close the installer.
+- **Action:** Click the "Finish" button to close the installer.
 
 ---
 
